@@ -1,0 +1,42 @@
+{
+    "source1": [
+        {
+            "sector": "",
+            "year": "",
+            "month": "2020",
+            "index": 2020
+        },
+        {
+            "sector": "CC13-65B",
+            "year": "Household energy (electricity, gas, other fuels)",
+            "month": "102.0",
+            "index": 98.3
+        }
+    ],
+    "source2": [
+        {
+            "sector": "",
+            "year": "",
+            "month": "2020",
+            "index": 2020
+        },
+        {
+            "sector": "CC13-0451010000",
+            "year": "Electricity",
+            "month": "99.6",
+            "index": 99.3
+        },
+        {
+            "sector": "CC13-0452103000",
+            "year": "Natural gas, excluding share operating costs",
+            "month": "101.0",
+            "index": 98.9
+        },
+        {
+            "sector": "CC13-0453001100",
+            "year": "Heating oil",
+            "month": "133.3",
+            "index": 82.1
+        }
+    ]
+}
